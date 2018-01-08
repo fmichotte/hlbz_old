@@ -1,0 +1,10 @@
+<root>
+  <facet id="jst.ejb"/>
+  <facet id="java"/>
+  <facet id="me.hibernate"/>
+  <facet id="jpt.jpa">
+    <node name="libprov">
+      <attribute name="provider-id" value="maven-lib-provider"/>
+    </node>
+  </facet>
+</root>
