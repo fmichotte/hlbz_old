@@ -5,6 +5,7 @@
 	<projects>
 		<project>hlbzJava</project>
 		<project>hlbzEJB</project>
+		<project>hlbzWeb</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
