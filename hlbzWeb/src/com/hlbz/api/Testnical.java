@@ -6,12 +6,12 @@ import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
 
-@Path("hlapi")
+@Path("ztestnical")
 public class Testnical {
 
 	@GET
 	@Produces(MediaType.TEXT_PLAIN)
-	public String get() {
+	public String getTechnical() {
 		
 
 		System.out.println("API - It Works");
